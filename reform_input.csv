@@ -1,2 +1,6 @@
 ﻿Policy Parameter,Year,Value
-rate11,2024,0.37
+rate4,2027,0.365
+rate5,2027,0.38
+tbrk3,2027,1000000
+tbrk4,2027,5000000
+,,

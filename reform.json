@@ -1,1 +1,47 @@
-{}
+{
+  "1": {
+    "selected_item": "rate4",
+    "selected_year": [
+      "2027.0"
+    ],
+    "selected_value": [
+      "0.365"
+    ]
+  },
+  "2": {
+    "selected_item": "rate5",
+    "selected_year": [
+      "2027.0"
+    ],
+    "selected_value": [
+      "0.38"
+    ]
+  },
+  "3": {
+    "selected_item": "tbrk3",
+    "selected_year": [
+      "2027.0"
+    ],
+    "selected_value": [
+      "1000000.0"
+    ]
+  },
+  "4": {
+    "selected_item": "tbrk4",
+    "selected_year": [
+      "2027.0"
+    ],
+    "selected_value": [
+      "5000000.0"
+    ]
+  },
+  "5": {
+    "selected_item": "nan",
+    "selected_year": [
+      "nan"
+    ],
+    "selected_value": [
+      "nan"
+    ]
+  }
+}

@@ -162,11 +162,25 @@
         },
         "pension_deduction": {
             "type": "float",
-            "desc": "Mortgage Deduction",
+            "desc": "Pension Deduction",
             "form": {
                 "2023": "Calculated from Tax Return Data"
             }
         },
+         "ahl_deduction": {
+             "type": "float",
+             "desc": "Affordable housing levy",
+             "form": {
+                 "2025": "form IT1-11.5-Calculated from Tax Return Data"
+             }
+         },
+         "shif_deduction": {
+             "type": "float",
+             "desc": "Social health insurance fund levy",
+             "form": {
+                 "2025": "form IT1-11.6-Calculated from Tax Return Data"
+             }
+         },
         "disability_exemption": {
             "type": "float",
             "desc": "disability_exemption",

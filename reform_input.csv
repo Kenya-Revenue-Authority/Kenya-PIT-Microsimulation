@@ -1,2 +1,9 @@
 ﻿Policy Parameter,Year,Value
-rate11,2024,0.37
+rate3,2027,0.3
+rate4,2027,0.35
+rate5,2027,0.4
+tbrk3,2027,2400000
+tbrk4,2027,6000000
+mortgage_deduction_threshold,2027,0
+insurance_relief_threshold,2027,0
+pension_deduction_threshold,2027,120000
